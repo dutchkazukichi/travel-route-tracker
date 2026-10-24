@@ -1,0 +1,13 @@
+{
+  "name": "travel-route-tracker",
+  "version": "1.0.0",
+  "description": "旅行用位置情報・ルート実績管理アプリ",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["travel", "location", "route", "tracker", "pwa"],
+  "author": "",
+  "license": "MIT"
+}
